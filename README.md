@@ -18,8 +18,8 @@ Puedes probar la aplicación en el siguiente enlace:
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/nvbale/gif-expert.git
+   cd gif-expert
    ```
 
 2. Instalar dependencias:
